@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Animation animation=AnimationUtils.loadAnimation(MainActivity.this,R.anim.rotate);
                 b.startAnimation(animation);
-
             }
         });
 
