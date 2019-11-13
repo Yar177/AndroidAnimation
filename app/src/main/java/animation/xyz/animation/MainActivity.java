@@ -8,7 +8,6 @@ import android.view.animation.AnimationUtils;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
-
     Button b;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
