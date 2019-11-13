@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Animation animation=AnimationUtils.loadAnimation(MainActivity.this,R.anim.rotate);
-
                 b.startAnimation(animation);
 
             }
